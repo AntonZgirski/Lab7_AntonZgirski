@@ -1,0 +1,14 @@
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.csproj.AssemblyReference.cache
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.AssemblyInfoInputs.cache
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.AssemblyInfo.cs
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.csproj.CoreCompileInputs.cache
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.exe
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.deps.json
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.runtimeconfig.json
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.runtimeconfig.dev.json
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.dll
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.pdb
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.dll
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.pdb
+D:\C#\Курсы TMS\Lab7\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.genruntimeconfig.cache
